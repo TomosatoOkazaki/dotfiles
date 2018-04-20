@@ -27,8 +27,8 @@ set smartindent " 改行時に前の行の構文をチェックし次の行の�
 set shiftwidth=2 " smartindentで増減する幅
 
 "" カラースキーム
-set background=dark
-colorscheme hybrid
+"set background=dark
+"colorscheme hybrid
 
 "###検索設定###
 set ignorecase
